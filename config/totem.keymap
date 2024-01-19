@@ -90,7 +90,7 @@ label= "Base"                              ;
         bindings = <
             &kp Q &kp      W &kp      E &kp      R &kp T          &kp Y &kp      U &kp      I &kp      O &kp P
             &mt HR1 A &kp  S &kp      D &kp      F &kp G          &kp H &kp      J &kp      K &kp      L &mt HR1 SEMI 
-&kp LSHFT    &mt HR2 Z &kp  X &kp      C &kp      V &kp B          &kp N &kp      M &kp  COMMA &kp    DOT &mt HR2 FSLH &kp SQT
+&kp LGUI    &mt HR2 Z &kp  X &kp      C &kp      V &kp B          &kp N &kp      M &kp  COMMA &kp    DOT &mt HR2 FSLH &kp SQT
                  &kp LGUI  &kp LALT   &mo 1           &kp SPACE  &mo 2   &mo 3 
             >;
                 };
